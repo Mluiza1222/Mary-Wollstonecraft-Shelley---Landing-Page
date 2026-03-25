@@ -1,6 +1,6 @@
 # Mary-Wollstonecraft-Shelley---Landing-Page
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 Este projeto consiste na criação de uma **landing page** dedicada mulheres que mudaram o mundo, a mulher que a estudante escolheu foi a escritora **Mary Shelley**, autora da obra *Frankenstein*.
 
@@ -8,7 +8,7 @@ A página foi desenvolvida utilizando tecnologias básicas da web: **HTML, CSS e
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 O principal objetivo do projeto é:
 
@@ -19,7 +19,7 @@ O principal objetivo do projeto é:
 
 ---
 
-## 🧱 Estrutura da página
+## Estrutura da página
 
 A landing page contém as seguintes seções:
 
@@ -46,7 +46,7 @@ A landing page contém as seguintes seções:
 
 ---
 
-## ⚙️ Funcionalidade em JavaScript
+## Funcionalidade em JavaScript
 
 A principal interação da página é o botão de curiosidades:
 
@@ -56,7 +56,7 @@ A principal interação da página é o botão de curiosidades:
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * **HTML5** → estrutura da página
 * **CSS3** → estilização
@@ -64,7 +64,7 @@ A principal interação da página é o botão de curiosidades:
 
 ---
 
-## 💡 Considerações finais
+## Considerações finais
 
 Este projeto foi desenvolvido com foco no aprendizado das bases do desenvolvimento web.
 
