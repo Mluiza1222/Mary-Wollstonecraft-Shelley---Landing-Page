@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
         "'Frankenstein' foi publicado de forma anônima.",
         "Perdeu três de seus quatro filhos.",
         "Frankenstein é considerada uma das primeiras ficções científicas.",
-        "Fugiu para se casar com Percy pois ele já era casado, porém casaram-se apenas dois anos após a fulga.",
+        "Fugiu para se casar com Percy pois ele já era casado, porém casaram-se apenas dois anos após a fuga.",
         "A ideia de escrever o renomado livro 'Frankenstein' ocorreu durante a viagem escandalosa que precedeu seu casamento com Percy."
     ];
 
